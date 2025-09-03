@@ -1,6 +1,4 @@
-# Blinkit
-In this repository, this project presents a comprehensive Power BI dashboard analyzing sales and outlet performance data for Blinkit – India's Last Minute App.
-# Descriptive-Analysis-BlinkIT-
+#  Descriptive-Analysis-Blinkit
 In this repository, this project presents a comprehensive Power BI dashboard analyzing sales and outlet performance data for Blinkit – India's Last Minute App.
 
 # 🛒 Blinkit Power BI Sales Dashboard
